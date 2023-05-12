@@ -5,8 +5,8 @@ export const Card = styled.div`
   width: 300px;
   background-color: #ffff;
   border-radius: 10px;
-  overflow: hidden;
   box-shadow: 2px 2px 10px 0px rgba(105,105,105,1);
+  overflow: hidden;
 `;
 
 export const Description = styled.div`
